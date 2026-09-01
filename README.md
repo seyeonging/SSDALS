@@ -80,3 +80,7 @@ tidyr
 This repository contains **ongoing and unpublished research**.
 
 The code is provided to document the implementation and experimental development of the project. Full theoretical derivations, detailed algorithms, simulation settings, and complete numerical results are intentionally omitted at this stage.
+
+## Acknowledgement
+
+This repository was developed with support from the 서울시립대학교 데이터 사이언스 플러스 차세대 융합인재 양성사업단 - http://dsplus.uos.ac.kr/
