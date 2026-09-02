@@ -1,4 +1,4 @@
-# SDALS : Semi-supervised Discriminant Analysis under Label Shift
+# REAL: Robust and Efficient Adaptation to Label shift via discriminant analysis
 
 This repository contains research code for an ongoing project on **semi-supervised linear discriminant analysis (LDA) under label shift**.
 
