@@ -1,4 +1,4 @@
-# SSDALS : Semi-supervised Discriminant Analysis under Label Shift
+# SDALS : Semi-supervised Discriminant Analysis under Label Shift
 
 This repository contains research code for an ongoing project on **semi-supervised linear discriminant analysis (LDA) under label shift**.
 
