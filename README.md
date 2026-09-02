@@ -1,4 +1,4 @@
-# Semi-supervised discriminant analysis for label shift adaptation
+# Semi-supervised Linear discriminant analysis for label shift adaptation
 
 This repository contains research code for an ongoing project on **semi-supervised linear discriminant analysis (LDA) under label shift**.
 
