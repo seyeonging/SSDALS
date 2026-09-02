@@ -1,4 +1,4 @@
-# REAL: Robust and Efficient Adaptation to Label shift via discriminant analysis
+# Semi-supervised discriminant analysis for label shift adaptation
 
 This repository contains research code for an ongoing project on **semi-supervised linear discriminant analysis (LDA) under label shift**.
 
